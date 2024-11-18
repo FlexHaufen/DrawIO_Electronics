@@ -1,6 +1,6 @@
 # DrawIO_Electronics
 - This is a simple library for electronics components. Because the included library is trash.
-- Symbols are drawn according to **IEC** norm. US symbols are trash. Look at the resistor symbol wtf is this.
+- Symbols are drawn according to **IEC** norm. The US symbols are bullshit. Just look at a f**king resistor. But what did you expect from someone who still uses the imperial system.
 
 ## Preview
 ![Preview](res/preview.png)
